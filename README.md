@@ -35,11 +35,19 @@ The initial state of the app, where users can upload their PDF files.
 
 ---
 
+### Upload Files
+
+Upload your documents using the "Browse files" and click on "Submit & Process".
+
+![3](https://github.com/user-attachments/assets/330f5852-7093-4025-a18a-75f604bc042b)
+
+
+---
+
+
 ### After Uploading Files
 Once PDF files are uploaded and processed, users can start asking questions.
 
-
-
-
+![4](https://github.com/user-attachments/assets/1c8655c3-7d0b-4a7e-9a26-196dadb40373)
 
 ---
