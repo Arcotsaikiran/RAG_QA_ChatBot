@@ -4,6 +4,12 @@ This project is a **Conversational Q&A Chatbot** built with **Streamlit**, **LLM
 
 ---
 
+## Live Demo
+
+Check out the live app: [Conversational Q&A Chatbot](https://conversational-rag-chatbot.streamlit.app/)
+
+---
+
 ## Features
 - Upload multiple PDF files and process their content.
 - Extract text from PDFs and split it into manageable chunks.
@@ -51,3 +57,15 @@ Once PDF files are uploaded and processed, users can start asking questions.
 ![4](https://github.com/user-attachments/assets/1c8655c3-7d0b-4a7e-9a26-196dadb40373)
 
 ---
+
+
+
+## License
+
+This project is licensed under the **MIT License**.  
+
+
+## Author
+
+- **Arcot Saikiran**  
+  [GitHub](https://github.com/Arcotsaikiran) | [LinkedIn](www.linkedin.com/in/arcot-saikiran-243173190)
