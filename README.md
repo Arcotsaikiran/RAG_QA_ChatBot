@@ -68,4 +68,4 @@ This project is licensed under the **MIT License**.
 ## Author
 
 - **Arcot Saikiran**  
-  [GitHub](https://github.com/Arcotsaikiran) | [LinkedIn](www.linkedin.com/in/arcot-saikiran-243173190)
+  [GitHub](https://github.com/Arcotsaikiran) | [LinkedIn](https://www.linkedin.com/in/arcot-saikiran-243173190)
